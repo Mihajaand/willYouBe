@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Cadeau</title>
+  <style>
+    body {
+      background-color: #f9e3e3;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.7);
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(255, 105, 135, 0.4);
+      text-align: center;
+      max-width: 350px;
+    }
+
+    h1 {
+      font-size: 24px;
+      color: #b0005f;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 16px;
+      color: #4a1a1a;
+    }
+
+    .heart {
+      font-size: 40px;
+      margin-top: 20px;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 0.7; }
+      50% { transform: scale(1.1); opacity: 1; }
+      100% { transform: scale(1); opacity: 0.7; }
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Mais voici d'abord un petit cadeau 🎁</h1>
+    <p>Tu le mérites. Juste pour te faire sourire aujourd’hui 😊</p>
+    <div class="heart"><a href="https://miary-birthday.netlify.app">ouvrir la carte❤️</a></div>
+  </div>
+</body>
+</html>
