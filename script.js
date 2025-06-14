@@ -54,16 +54,37 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
+    "Are you sure 🤣🤣?",
+    "Really sure 🤣🥺??",
+    "Tatiii please... 🤣🥺",
     "Just think about it!",
     "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "will be very very very sad...",
+    "Misy Chocolat mamy be an zayyyy 🍫😍😂",
+    "It’s something small... but full of love 💌",
+    "It comes with a hug 🥺",
+    "What if it's handmade just for you?",
+    "Tatiii, Tatttii, Tatiiii....",
+    "It’s already wrapped, I swear!",
+    "Please, I’ll be the happiest if you say yes 😭",
+    "You will not regret it, I promise! ❤️",
+    "Don't break my little heart 💔",
+    "One yes won’t hurt... I promise 🥹",
+    "It’s a surprise! And surprises are fun!",
+    "Imagine me giving it to you with a big smile 😁",
+    "Would you say no to a puppy? 🐶 (it's not a puppy but still...)",
+    "AAA ts mahazo mandà aingana!",
+    "It's not expensive, but it's priceless ❤️",
+    "I’ve been planning this for long...",
+    "You’re gonna love it... I feel it!",
+    "Just open your heart for 1 sec 😌",
+    "It's just a little token of how amazing you are",
+    "Say yes and I’ll stop being annoying (maybe 🤣🥺)",
+    "Okay okay, last time asking… unless you say Yes 😈",
+    "Come onnn, it's your birthday, let me spoil you!",
+    "Please 🥺 for you?",
+    "Okay... but what if I cry? 😭",
+    "Just kidding, say yes pleeeeease! ❤️"
 ];
 
 let messageIndex = 0;
